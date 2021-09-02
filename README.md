@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @jamesstaylor76, a senior developer on the Iress Design System team.
+# James Taylor - Senior Developer - Iress Design System
+
+- 👋 Hi, I’m @jamesstaylor76
 - 👀 I’m interested in front-end development for design systems. Specifically, using web components for UI.
 - 🌱 I’m currently learning about microfrontends and AWS Cloud
 - 📫 How to reach me
